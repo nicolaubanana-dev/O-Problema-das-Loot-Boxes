@@ -7,8 +7,8 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `Gabriel Santiago e Nicolas Bellasco`
+- Data: `23.09.2026`
 
 ## Preenchimento
 
@@ -18,14 +18,14 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`Como sistemas de micro transações e loot boxes em jogos podem afetar desde crianças a adultos que consomem Video Game `
+`Micro transações e Loot Boxes nos Jogos `
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
+- Tema amplo: `Como sistemas de micro transações e loot boxes em jogos, semelhantes a casas de aposta, podem afetar desde crianças a adultos que consomem Video Game`
+- Objeto estudado: `Micro transações e Loot Boxes dentro de Video Games online`
+- Contexto ou aplicação: `A Relação entre o vício em apostas com os sistemas monetários de micro transações e Loot Box nos jogos online "Free to Play"`
+- Aspecto que será analisado: `O impacto do`
 - O que ficará fora do estudo: `[preencher]`
 
 ### Justificativa
