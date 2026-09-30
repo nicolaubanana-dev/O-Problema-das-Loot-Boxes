@@ -54,5 +54,5 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `Gabriel Santiago` | `[preencher]` |
-| `Nicolas Bellasco` | `[preencher]` |
+| `Gabriel Santiago` | `Sim` |
+| `Nicolas Bellasco` | `Sim` |
