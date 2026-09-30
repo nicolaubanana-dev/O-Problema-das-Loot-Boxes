@@ -6,19 +6,19 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`Micro transações e Loot Boxes nos Jogos.`
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`De que forma a exposição a sistemas de microtransações e loot boxes semelhantes a bets e casas de aposta podem afetar a saúde financeira e mental dos usuários?`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- O que se deseja descobrir ou compreender? `Possíveis soluções monetárias para a substituição do modelo FreeToPlay.`
+- Qual é o objeto da pergunta? `Microtransações.`
+- Qual é o contexto ou recorte? `Jogadores de jogos online que utilizam monetização in-game.`
+- A pergunta pode ser respondida por artigos científicos? `Sim, pois existem diversos artigos de universiades que abordam o tema principalmente na área da psicologia.`
+- Por que essa pergunta é relevante? `Porque os sistemas de microtransações e lootboxes são semelhantes ou até iguais a sistemas de casas de aposta, podendo gerar gastos excessivos e dependência, sendo importante compreeender como isso pode afetar principalmente o público jovem.`
 
 ## Produto da etapa
 
