@@ -30,7 +30,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`O tema é relevante pois ele aborda um problema recorrente de influência ao comportamento de consumo dos usuários, afetando principalmente sua saúde financeira. `
+`O tema é relevante pois ele aborda um problema recorrente de influência ao comportamento de consumo dos usuários, sendo o foco crianças e jovens, afetando principalmente sua saúde financeira e da sua família. `
 
 ### Viabilidade
 
