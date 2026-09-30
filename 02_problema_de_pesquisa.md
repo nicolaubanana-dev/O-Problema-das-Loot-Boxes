@@ -36,4 +36,5 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Nicolas Bellasco` | `Sim` |
+| `Gabriel Santiago` | `Sim` |
