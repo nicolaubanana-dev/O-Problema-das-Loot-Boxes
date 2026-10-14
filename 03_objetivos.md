@@ -6,11 +6,11 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`De que forma a exposição a sistemas de microtransações e loot boxes semelhantes a bets e casas de aposta podem afetar a saúde financeira e mental dos usuários?`
+`De que forma a exposição a loot boxes semelhantes a bets e casas de aposta podem afetar a saúde financeira e mental dos usuários?`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`Analisar e associar o sistema de loot boxes em jogos como uma possível influência a consumir jogos de aposta.`
 
 ## Objetivos específicos
 
@@ -23,7 +23,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 | Elemento | Texto |
 |---|---|
-| Problema | `Impacto negativo de Loot boxes e Microtransações` |
+| Problema | `Impacto negativo de Loot boxes` |
 | Objetivo geral | `Compreender o problema, trazer informações, conhecimento e encontrar possíveis soluções.` |
 | Resultado esperado | `Um artigo que possa informar leitores sobre este problema atual e se possível, projetar soluções e incentivar aqueles que sofrem com este problema.` |
 
