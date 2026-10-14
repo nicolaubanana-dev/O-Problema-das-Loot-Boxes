@@ -36,19 +36,19 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 `Ao analisar 13 artigos independentes cobrando 25.334 participantes, 93% dos estudos (12 de 13) confirmaram uma associação positiva direta entre comprar loot boxes e desenvolver problemas com jogos de azar.
 A meta-síntese calculou uma força de correlação moderada e estatisticamente robusta (r = 0,27). Na prática das ciências sociais, isso significa que o vínculo não é mero acaso ou ruído estatístico.
-O artigo revelou uma sobreposição tripla: quem compra loot boxes tem maior risco de ter vício em jogos de azar ($r = 0,27$) E também vício em videogames (r = 0,40).`
+O artigo revelou uma sobreposição tripla: quem compra loot boxes tem maior risco de ter vício em jogos de azar (r = 0,27) E também vício em videogames (r = 0,40).`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`Os autores alertam que a esmagadora maioria dos artigos publicados no mundo (à época da revisão) eram de corte transversal, o que mantém a limitação da literatura global em provar causalidade absoluta.`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`Contribui ao fornecer a provação do consenso científico global por meio de uma meta-análise com 25.334 participantes, confirmando que a associação entre a mecânica de caixas surpresa, o jogo de azar problemático e a dependência em jogos eletrônicos é estatisticamente sólida.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`Viés de Publicação (Publication Bias): Revisões sistemáticas correm o risco de capturar predominantemente estudos que "encontraram resultados significativos" (já que revistas científicas raramente publicam pesquisas que não encontram correlação nenhuma).`
 
 ### Citação literal opcional
 
@@ -58,9 +58,9 @@ Página: `[número]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
 * [ ] Toda citação literal contém página.
 
