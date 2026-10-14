@@ -8,17 +8,17 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `Wardle, H., & Zendle, D. (2021). Loot Boxes, Jogos de Azar e Problemas com Jogos de Azar entre Jovens: Resultados de uma Pesquisa Transversal Online. Cyberpsychology, Behavior, and Social Networking, 24(4), 267-274.`
+* DOI ou URL: `https://doi.org/10.1089/cyber.2020.0299`
+* Base de origem: `Sage Journals`
+* Leitor responsável: `Nicolas Bellasco`
+* Data da leitura: `14/10/2026`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`A relação entre o uso de loot boxes (caixas de recompensa em jogos eletrônicos) e o problema com jogos de azar entre os jovens.`
 
 ### Objetivo do estudo
 
