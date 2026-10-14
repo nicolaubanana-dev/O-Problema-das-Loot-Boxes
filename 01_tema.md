@@ -18,14 +18,14 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`Micro transações e Loot Boxes nos Jogos.`
+`Loot Boxes nos Jogos.`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `Como sistemas de micro transações e loot boxes em jogos, semelhantes a casas de aposta, podem afetar e influenciar negativamente comportamentos compulsivos que afetam a saúde financeira de usuários.`
+- Tema amplo: `Como sistemas de loot boxes em jogos, semelhantes a casas de aposta, podem afetar e influenciar negativamente comportamentos compulsivos que afetam a saúde financeira de usuários.`
 - Objeto estudado: `Micro transações e Loot Boxes dentro de Video Games online.`
 - Contexto ou aplicação: `A Relação entre o vício em apostas com os sistemas monetários de micro transações e Loot Box nos jogos online "Free to Play".`
-- Aspecto que será analisado: `O impacto da loot box e sistemas de micro transações em jogos online .`
+- Aspecto que será analisado: `O impacto da loot boxes em jovens que jogam jogos online.`
 - O que ficará fora do estudo: `A nova proibição de bets em 2026.`
 
 ### Justificativa
