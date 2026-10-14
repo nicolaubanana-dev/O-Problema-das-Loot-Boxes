@@ -35,7 +35,9 @@ Os autores utilizaram análise de conteúdo em respostas textuais livres para en
 
 ### Principais resultados
 
-`[preencher]`
+`Cerca de 19,87% dos participantes relataram explicitamente a ocorrência do efeito de "porta de entrada" (as loot boxes os influenciaram a começar a apostar) ou de um "efeito inverso" (as apostas os levaram a comprar loot boxes).
+A maioria daqueles que perceberam o efeito de porta de entrada (82,4%) tinha menos de 18 anos quando compraram sua primeira loot box.
+Indivíduos que relataram esses efeitos também apresentaram escores signficativamente mais altos de vício em jogos de azar, problemas com impulsividade e maiores gastos financeiros tanto em jogos quanto em apostas.`
 
 ### Limitações apresentadas
 
