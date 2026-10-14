@@ -6,9 +6,9 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `Associações entre Loot Boxes, Impulsividade e Jogos de Azar`
+2. `A Hipótese da Porta de Entrada (Gateway Hypothesis) e Exposição Precoce em Menores`
+3. `Consenso Científico Global e Impacto na Saúde Mental dos Jogadores`
 
 ## Matriz de síntese
 
