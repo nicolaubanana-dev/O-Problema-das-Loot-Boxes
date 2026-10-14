@@ -14,6 +14,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
+|`Eixo 1: Impulsividade e Gambling`|`Wardle & Zendle (2021); Spicer et al. (2022b)`|`Ambos confirmam relação estatística direta entre loot boxes e o desenvolvimento de hábitos de apostas problemáticas.`|`Wardle & Zendle focam no perfil de impulsividade individual, enquanto Spicer et al. analisam o vício concomitante em videogames.`|`Desenhos de estudo predominantemente transversais (cross-sectional), impossibilitando inferência de causalidade direta`|`Pouca diferenciação entre os tipos de loot boxes (exemplo: puramente cosméticas vs. pay-to-win).`|
+|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 |`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
