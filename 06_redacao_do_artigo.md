@@ -46,9 +46,9 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Referências
 
-`- Spicer, S. G., Fullwood, C., Close, J., Nicklin, L. L., Lloyd, J., & Lloyd, H. (2022a). Loot boxes and problem gambling: Investigating the “gateway hypothesis”. Addictive Behaviors, 131, 107327. https://doi.org/10.1016/j.addbeh.2022.107327`
-`- Spicer, S. G., Nicklin, L. L., Uther, M., Lloyd, J., Lloyd, H., & Close, J. (2022b). Loot boxes, problem gambling and problem video gaming: A systematic review and meta-synthesis. New Media & Society, 24(4), 1001–1022. https://doi.org/10.1177/14614448211027175`
-`- Wardle, H., & Zendle, D. (2021). Loot Boxes, Gambling, and Problem Gambling Among Young People: Results from a Cross-Sectional Online Survey. Cyberpsychology, Behavior, and Social Networking, 24(4), 267–274. https://doi.org/10.1089/cyber.2020.0299`
+- `Spicer, S. G., Fullwood, C., Close, J., Nicklin, L. L., Lloyd, J., & Lloyd, H. (2022a). Loot boxes and problem gambling: Investigating the “gateway hypothesis”. Addictive Behaviors, 131, 107327. https://doi.org/10.1016/j.addbeh.2022.107327`
+- `Spicer, S. G., Nicklin, L. L., Uther, M., Lloyd, J., Lloyd, H., & Close, J. (2022b). Loot boxes, problem gambling and problem video gaming: A systematic review and meta-synthesis. New Media & Society, 24(4), 1001–1022. https://doi.org/10.1177/14614448211027175`
+- `Wardle, H., & Zendle, D. (2021). Loot Boxes, Gambling, and Problem Gambling Among Young People: Results from a Cross-Sectional Online Survey. Cyberpsychology, Behavior, and Social Networking, 24(4), 267–274. https://doi.org/10.1089/cyber.2020.0299`
 
 ## Checklist
 
