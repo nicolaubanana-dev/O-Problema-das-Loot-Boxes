@@ -18,23 +18,25 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[preencher]`
+`Falta de consenso quantitativo e consolidado na literatura científica sobre o real impacto das loot boxes.`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`Mapear e sintetizar toda a literatura científica global existente sobre o tema para responder defensivamente: "existe de fato uma relação estatística consistente entre a compra de loot boxes, o vício em jogos de azar e o vício em videogames?" O estudo visou calcular o tamanho desse impacto unindo amostras de dezenas de pesquisas anteriores.`
 
 ### Método utilizado
 
-`[preencher]`
+`Revisão Sistemática da Literatura e Meta-análise / Meta-síntese.`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`Os pesquisadores aplicaram diretrizes rigorosas de busca acadêmica (PRISMA) em bancos de dados internacionais, filtrando centenas de artigos até selecionar os estudos empíricos quantitativos de maior qualidade metodológica. Foi calculada uma média ponderada dos coeficientes de correlação (r) de todos os estudos para quantificar a força exata do impacto da mecânica na população geral.`
 
 ### Principais resultados
 
-`[preencher]`
+`Ao analisar 13 artigos independentes cobrando 25.334 participantes, 93% dos estudos (12 de 13) confirmaram uma associação positiva direta entre comprar loot boxes e desenvolver problemas com jogos de azar.
+A meta-síntese calculou uma força de correlação moderada e estatisticamente robusta (r = 0,27). Na prática das ciências sociais, isso significa que o vínculo não é mero acaso ou ruído estatístico.
+O artigo revelou uma sobreposição tripla: quem compra loot boxes tem maior risco de ter vício em jogos de azar ($r = 0,27$) E também vício em videogames (r = 0,40).`
 
 ### Limitações apresentadas
 
