@@ -16,7 +16,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 |-|-|-|-|-|-|
 |`Eixo 1: Impulsividade e Gambling`|`Wardle & Zendle (2021); Spicer et al. (2022b)`|`Ambos confirmam relação estatística direta entre loot boxes e o desenvolvimento de hábitos de apostas problemáticas.`|`Wardle & Zendle focam no perfil de impulsividade individual, enquanto Spicer et al. analisam o vício concomitante em videogames.`|`Desenhos de estudo predominantemente transversais (cross-sectional), impossibilitando inferência de causalidade direta`|`Pouca diferenciação entre os tipos de loot boxes (exemplo: puramente cosméticas vs. pay-to-win).`|
 |`Eixo 2: Hipótese da Porta de Entrada (Gateway)`|`Spicer et al. (2022a)`|`Evidencia que a exposição a mecânicas de apostas em jogos eletrônicos estimula e antecede a migração para apostas reais.`|` Não aplicável (estudo de foco específico em gateway).`|`Dependência de auto-relato retrospectivo e percepção subjetiva dos próprios participantes.`|` Falta de acompanhamento longitudinal (estudos de coorte) ao longo dos anos para monitorar a transição.`|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Eixo 3: Consenso Global e Validação`|`Spicer et al. (2022b)`|`Consolida os achados individuais de Wardle & Zendle e Spicer et al. em uma amostra massiva (>25 mil pessoas).`|`Demonstra que a correlação varia em magnitude dependendo do instrumento de medição, mas mantém-se positiva.`|`Potencial viés de publicação na literatura primária (estudos com resultados nulos raramente são publicados).`|`Pouco conhecimento sobre os efeitos a longo prazo e a eficácia de diferentes modelos de regulamentação estatal.`|
 
 ## Roteiro da revisão da literatura
 
