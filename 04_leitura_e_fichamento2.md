@@ -41,7 +41,8 @@ Indivíduos que relataram esses efeitos também apresentaram escores signficativ
 
 ### Limitações apresentadas
 
-`A coleta de dados ocorreu em um único momento temporal, o que impede de comprovar de forma definitiva a causalidade estrita da direção da via (embora traga fortes indícios subjetivos relatados pelos usuários.`
+`A coleta de dados ocorreu em um único momento temporal, o que impede de comprovar de forma definitiva a causalidade estrita da direção da via (embora traga fortes indícios subjetivos relatados pelos usuários).
+O estudo focou especificamente em um subgrupo que já realizava ambas as práticas, o que não necessariamente retrata a totalidade dos gamers casuais que nunca apostaram.`
 
 ### Contribuição para o nosso artigo
 
