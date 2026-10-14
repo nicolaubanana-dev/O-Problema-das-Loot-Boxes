@@ -44,11 +44,11 @@ Os dados também não detalharam o volume exato de dinheiro gasto em cada loot b
 
 ### Contribuição para o nosso artigo
 
-``
+`Ele contribui com o nosso artigo pois expõe a similaridade das loot boxes com Cassinos/Caça-níqueis. Os autores destacam e reforçam a associação entre loot boxes e problemas com apostas em jovens, comparando à jogos de cassino tradicionais, reforçando a tese de que a mecânica não é mero entretenimento, mas sim uma ponte para o hábito de apostar.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`O artigo não deixa claro se comprar loot boxes é a causa que leva o jovem a apostar, ou se jovens que já possuem uma predisposição psicológica ao vício em apostas são naturalmente atraídos por jogos que contêm loot boxes, apenas faz a associação das loot boxes com jogos de aposta.`
 
 ### Citação literal opcional
 
@@ -58,9 +58,9 @@ Página: `[número]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
 * [ ] Toda citação literal contém página.
 
