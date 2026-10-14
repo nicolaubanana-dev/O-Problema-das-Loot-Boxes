@@ -39,11 +39,12 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 ### Limitações apresentadas
 
 `Como os dados foram coletados em um único ponto no tempo, o estudo mostra apenas que a compra de loot boxes com jogos de azar estão associados, mas não prova relação de causa e efeito.
-Também, os dados foram obtidos por meio de respostas dos próprios participantes no questionário online, o que pode causar distorções, pois as pessoas podem subestimar ou esquecer o quanto realmente gastam com loot boxes ou o quando apostaram ao longo do ano.`
+Também, os dados foram obtidos por meio de respostas dos próprios participantes no questionário online, o que pode causar distorções, pois as pessoas podem subestimar ou esquecer o quanto realmente gastam com loot boxes ou o quando apostaram ao longo do ano.
+Os dados também não detalharam o volume exato de dinheiro gasto em cada loot box, o que impede medir uma relação de dose-resposta (exemplo: se gastar o dobro aumenta proporcionalmente o risco.`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+``
 
 ### Comentário crítico
 
