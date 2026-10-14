@@ -29,19 +29,19 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `O consumo de loot boxes na infância e adolescência atua como um vetor de normalização e iniciação aos jogos de azar tradicionais antes da idade legal.`
+* Evidências que serão usadas: `Spicer et al. (2022a) constataram que cerca de 20% dos praticantes relatam o efeito de porta de entrada, sendo que 82,4% destes adquiriram sua primeira loot box quando tinham menos de 18 anos.`
+* Comparação entre estudos: `Enquanto Wardle & Zendle (2021) mapeiam o consumo presente em jovens adultos, Spicer et al. (2022a) investigam o histórico retrospectivo e o gatilho inicial que levou à transição para o vício em apostas.`
+* Ligação com o problema: `Sustenta a necessidade urgente de políticas públicas de proteção da infância e juventude (ECA, CDC) e restrição de idade em jogos digitais.`
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`A literatura científica atual apresenta uma clara tendência de convergência ao apontar as loot boxes não apenas como meras mecânicas recreativas, mas como uma forma de jogo de azar mascarado que se associa diretamente a comportamentos aditivos em jovens e adultos. Nota-se, contudo, uma lacuna metodológica predominante: a maioria das pesquisas utiliza desenhos transversais e auto-relatos, o que impede a determinação irrefutável de causalidade bi-direcional. Além disso, há pouca diferenciação entre a mecânica de caixas estritamente cosméticas e caixas pay-to-win. Apesar dessas limitações, a força estatística das meta-análises e a alta prevalência de iniciação em menores de 18 anos fornecem sustentação suficiente para defender a regulamentação severa e a reclassificação jurídica dessas práticas no mercado consumidor.`
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
+* [x] As divergências foram registradas.
+* [x] As lacunas são específicas e sustentadas pelas leituras.
 
