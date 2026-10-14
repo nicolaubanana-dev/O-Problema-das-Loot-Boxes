@@ -46,11 +46,12 @@ O estudo focou especificamente em um subgrupo que já realizava ambas as prátic
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`Os video games estão servindo de "escola" para o vício em cassinos, pois no artigo detalha e traz dados específicos sobre o conceito de gateway que mostra a comprovação de que possívelmente as loot boxes podem ser uma porta de entrada para o vício em jogos de aposta.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`O estudo mede o fenômeno da porta de entrada muito baseado na percepção subjetiva do usuário. Percepções psicológicas retrospectivas podem ser falhas, uma vez que o indivíduo pode tentar justificar seus hábitos atuais culpando o seu histórico de jogos de infância.
+O estudo também se concentrou em quem ja pratica os dois hábitos, deixando de analisar profundamente a massa de jogadores que abre loot boxes mas que nunca migrou para o jogo de azar tradicional, o que poderia equilibrar a perspectiva sobre quão universal ou restrito esse risco realmente é.`
 
 ### Citação literal opcional
 
