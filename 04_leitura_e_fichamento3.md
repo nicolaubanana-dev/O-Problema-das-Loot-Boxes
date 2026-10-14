@@ -12,7 +12,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * DOI ou URL: `https://doi.org/10.1177/14614448211027175`
 * Base de origem: `Sage Journals`
 * Leitor responsável: `Nicolas Bellasco`
-* Data da leitura: `[dd/mm/aaaa]`
+* Data da leitura: `14/10/2026`
 
 ## Fichamento
 
