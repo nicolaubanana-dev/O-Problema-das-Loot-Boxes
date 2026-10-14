@@ -22,19 +22,19 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Objetivo do estudo
 
-`[preencher]`
+`Analisar a associação entre a comprar de loot boxes e o vícios de jogos de azar, verificando se fatores como traços de personalidade (impulsividade) ou envolvimento prévio com outras apostas explicavam essa relação.`
 
 ### Método utilizado
 
-`[preencher]`
+`Pesquisa de opinião`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`O estudo se baseou em uma pesquisa online com 3.549 jovens de 16 a 24 anos.`
 
 ### Principais resultados
 
-`[preencher]`
+`Cerca de 12,1% dos jovens entrevistados compraram loot boxes no ano anterior à pesquisa, tornando essa prática mais popular entre eles do que apostas em raspadinhas ou bilhetes de loteria tradicionais.`
 
 ### Limitações apresentadas
 
