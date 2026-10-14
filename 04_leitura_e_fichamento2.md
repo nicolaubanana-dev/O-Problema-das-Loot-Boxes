@@ -8,29 +8,30 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `Spicer, S. G., Fullwood, C., Close, J., Nicklin, L. L., Lloyd, J., & Lloyd, H. (2022). Loot boxes and problem gambling: Investigating the “gateway hypothesis” [Caixas de recompensa e problemas com jogos de azar: Investigando a “hipótese da porta de entrada”]. Addictive Behaviors, 131, 107327.`
+* DOI ou URL: `https://doi.org/10.1016/j.addbeh.2022.107327`
+* Base de origem: `ScienceDirect`
+* Leitor responsável: `Nicolas Bellasco`
+* Data da leitura: `14/10/2026`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`Se as loot boxes funcionam como uma "porta de entrada" (gateway) que possa facilitar o envolvimento futuro com jogos de azar tradicionais.`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`Investigar a chamada "hipótese da porta de entrada" (gateway hypothesis), testando se o envolvimento precoce com a compra de loot boxes em jogos eletrônicos atua de fato como um calaisador que estimula, treina ou facilita a migração dos jovens para os jogos de azar tradicionais.`
 
 ### Método utilizado
 
-`[preencher]`
+`Foi utilizado um Questionário online`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`1.102 pessoas que relataram praticar as duas atividades (comprar loot boxes e fazer apostas/jogos de azar).
+Os autores utilizaram análise de conteúdo em respostas textuais livres para entender como os próprios participantes interpretavam a transição entre as loot boxes e o jogo de azar tradicional.`
 
 ### Principais resultados
 
