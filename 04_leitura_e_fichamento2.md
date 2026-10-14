@@ -41,7 +41,7 @@ Indivíduos que relataram esses efeitos também apresentaram escores signficativ
 
 ### Limitações apresentadas
 
-`[preencher]`
+`A coleta de dados ocorreu em um único momento temporal, o que impede de comprovar de forma definitiva a causalidade estrita da direção da via (embora traga fortes indícios subjetivos relatados pelos usuários.`
 
 ### Contribuição para o nosso artigo
 
