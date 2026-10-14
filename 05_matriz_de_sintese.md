@@ -22,10 +22,10 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 1
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `A aquisição de loot boxes em jogos eletrônicos não é neutra e atinge desproporcionalmente indivíduos jovens com maior nível de impulsividade, associando-se ao jogo problemático.`
+* Evidências que serão usadas: `Wardle & Zendle (2021) demonstraram uma chance 4,5 vezes maior (ajustada) de problemas com apostas entre compradores de loot boxes, apontando maior pontuação em escalas de impulsividade.`
+* Comparação entre estudos: `Wardle & Zendle (2021) trazem a perspectiva demográfica e psicológica de jovens (16-24 anos), corroborada no nível macro pela meta-análise de Spicer et al. (2022b) com mais de 25 mil participantes ($r = 0,27$).`
+* Ligação com o problema: `Demonstra que a monetização por caixas surpresa explora vulnerabilidades psicológicas semelhantes às de jogos de cassino tradicionais.`
 
 ### Eixo 2
 
